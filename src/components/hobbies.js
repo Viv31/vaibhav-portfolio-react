@@ -26,7 +26,7 @@ export default function Hobbies(){
 					</div>
 					
 					<div className="col-md-4">
-					<div className="card hobby_div" style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.3)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5LSx-0EIIwFGHpKYx2RYHPPEFMlSaabq1ouCiB-FvZ-sGw744_SW-rX05t9oYAKNiH00&usqp=CAU')","backgroundSize":"cover"}}>
+					<div className="card hobby_div" style={{"background":"linear-gradient(0deg, rgba(1, 1, 1, 0.3), rgba(0, 0, 0, 0.3)),url('/images/badminton.jpg')","backgroundSize":"cover"}}>
 							  <div className="card-header"></div>
 						<div className="card-body">
 							
