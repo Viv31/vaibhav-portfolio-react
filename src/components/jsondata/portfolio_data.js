@@ -139,7 +139,7 @@ contactMeData:[
 {socialPlatFormName:`Github`,socialPlatFormLink:`https://github.com/Viv31`,RefClassNameForLinkHoverColor:`btn btn-primary github mb-2 socail_btn`},
 {socialPlatFormName:`Stackoverflow`,socialPlatFormLink:`https://stackoverflow.com/users/10657696/vaibhav`,RefClassNameForLinkHoverColor:`btn btn-primary stack mb-2 socail_btn`},
 {socialPlatFormName:`Email me`,socialPlatFormLink:`mailto:vivgangs@gmail.com`,RefClassNameForLinkHoverColor:`btn btn-primary gmail mb-2 socail_btn`},
-{socialPlatFormName:`Linkidin`,socialPlatFormLink:`https://www.linkedin.com/in/vaibhav-gangrade-796387134`,RefClassNameForLinkHoverColor:`btn btn-primary wp mb-2 socail_btn`},
+{socialPlatFormName:`Linkedin`,socialPlatFormLink:`https://www.linkedin.com/in/vaibhav-gangrade-796387134`,RefClassNameForLinkHoverColor:`btn btn-primary wp mb-2 socail_btn`},
 {socialPlatFormName:`WP`,socialPlatFormLink:`https://profiles.wordpress.org/vaibhav31gangrade/`,RefClassNameForLinkHoverColor:`btn btn-primary linkedin mb-2 socail_btn`},
 ],
 
