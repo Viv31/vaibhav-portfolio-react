@@ -24,6 +24,8 @@ const portfolio_data = {
     { label: "SEO", value: 75, circleColor: "#0E76A8", waveColor: "#0E76A8" },
     { label: "WP Plugins", value: 90, circleColor: "#4AB29A", waveColor: "#4AB29A" },
     { label: "Debugging", value: 80, circleColor: "#6B8E23", waveColor: "#6B8E23" },
+    { label: "MySQL", value: 80, circleColor: "#8B8E23", waveColor: "#9B8E23" },
+    { label: "SQL", value: 70, circleColor: "#7B8E23", waveColor: "#5B8E23" },
 
   ],
 
