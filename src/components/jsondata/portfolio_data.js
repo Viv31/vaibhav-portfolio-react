@@ -126,7 +126,7 @@ achievements:[
 
 extraActity:[
   {title:`GITHUB PROJECTS`,numbers:`110`,class:``},
-  {title:`PLUGINS IN WORDPRESS DIRECTORY`,numbers:`6`,class:``},
+  {title:`PLUGINS IN WORDPRESS DIRECTORY`,numbers:`7`,class:``},
   {title:`PROJECTS HOSTED ON GITHUB`,numbers:`5`,class:``},
 ],
 /*Achievements section ends here */
